@@ -41,3 +41,17 @@
 </div>
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/hadi-namazi-943918251" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/HadiNmz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="20" alt="telegram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVkkxClTqFhCJdnfVMKHnFqPlmfRMhZHgkcbvwLNDdpPsvHgdtgrDHkwbnXMKhgNssZcJF" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  </a>
+</div>
+
+###
